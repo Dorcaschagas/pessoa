@@ -1,0 +1,1 @@
+const int versaobancoDados = 1;
